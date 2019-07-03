@@ -1,11 +1,27 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "DEFT": {
+        "version": "",
+        "url": "https://api.sandbox.deft.com.au",
+        "status": ""
+    },
+    "PIQ Portal": {
+        "version": "v0.36.0",
+        "url": "https://portal.dev.propertyiq.com.au/",
+        "status": 1
+    },
+    "Database": {
+        "version": "",
+        "url": "",
+        "status": 1
+    },
+    "API": {
+        "version": "v1",
+        "url": "https://api.dev.propertyiq.com.au",
+        "status": 1
+    },
+    "Cache": {
+        "version": "",
+        "url": "",
+        "status": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
